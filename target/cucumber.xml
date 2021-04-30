@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="4.173905">
+    <testcase classname="End to End Tests for ToolsQA's Books Library API" name="Multiple creat book" time="4.173905">
+        <system-out><![CDATA[Given The user is on books list page........................................passed
+When the create book btn Clicked............................................passed
+Then check if on the create book page.......................................passed
+When The book title "test1234" is entered...................................passed
+And The book year "2021" is entered.........................................passed
+And the save btn is entered.................................................passed
+Then the browser navigate to the book page and the book is added............passed
+]]></system-out>
+    </testcase>
+</testsuite>
